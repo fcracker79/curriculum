@@ -1,0 +1,202 @@
+{
+  "basics": {
+    "name": "Mirko Bonasorte",
+    "label": "Software engineer",
+    "image": "http://www.mirko.io/assets/img/foto.png",
+    "email": "mirko@mirko.io",
+    "phone": "+39 349 4042853",
+    "website": "http://www.mirko.io",
+    "summary": "I am a passion software engineer. After graduating in Software Engineering at Università degli studi di Pisa, I have worked as a Java Software architect for twelve years at Tagetik S.r.l.. Currently I am working in a startup that operates in the domain of cryptocurrencies. Apart from my work experience, I have always devoted most of my spare time learning new technologies and keeping my skills up-to-date.",
+    "location": {
+      "address": "Via Pollinelle 46",
+      "postalCode": "55016",
+      "city": "Porcari",
+      "countryCode": "IT"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "fcracker79",
+        "url": "https://twitter.com/fcracker79"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "fcracker79",
+        "url": "https://www.linkedin.com/in/fcracker79"
+      },
+      {
+        "network": "Google Plus",
+        "username": "fcracker79",
+        "url": "https://plus.google.com/110640320308550808182"
+      },
+      {
+        "network": "Stack overflow",
+        "username": "fcracker79",
+        "url": "http://stackoverflow.com/users/3331931/fcracker79"
+      },
+      {
+        "network": "GitHub",
+        "username": "fcracker79",
+        "url": "https://github.com/fcracker79"
+      }
+
+    ]
+  },
+  "work": [
+    {
+      "company": "Conio Inc.",
+      "position": "Software architect",
+      "website": "http://www.conio.com",
+      "startDate": "2015-07-16",
+      "summary": "Conio's mission is to help you understand and handle Bitcoin. They research and develop bitcoin and blockchain products and technologies.",
+      "highlights": [
+        "Designed, architected and implemented the core Conio platform from scratch.",
+        "Mentored junior developers.",
+        "Contributed to open sources libraries adopted by Conio"
+      ]
+    },
+    {
+      "company": "Tagetik S.r.l.",
+      "position": "Software engineer",
+      "website": "http://www.tagetik.com",
+      "startDate": "2004-01-01",
+      "endDate": "2015-07-15",
+      "summary": "Tagetik enables finance, legal, tax, and healthcare professionals to be more effective and efficient. They provide information, software, and services that deliver vital insights, intelligent tools, and the guidance of subject-matter experts. ",
+      "highlights": [
+        "Batch SQL data processing on huge data",
+        "Multithreading highly concurrent data processing",
+        "SQL fine tuning",
+        "Team leader and mentor on Java technologies"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Cambridge",
+      "area": "English",
+      "studyType": "Certification",
+      "startDate": "2010-12-31",
+      "endDate": "2013-12-31",
+      "gpa": "72.0/100.0"
+    },
+    {
+      "institution": "VMWare",
+      "area": "Information Technology",
+      "studyType": "Certification",
+      "startDate": "2011-12-31",
+      "endDate": "2011-12-31",
+      "gpa": "95.0/100.0",
+      "courses": ["Spring Core 3.0"]
+    },
+    {
+      "institution": "Sun Microsystems",
+      "area": "Information Technology",
+      "studyType": "Certification",
+      "startDate": "2008-12-31",
+      "endDate": "2008-12-31",
+      "gpa": "90.0/100.0",
+      "courses": ["Sun Certified Business Business Component Developer (SCBCD)"]
+    },
+    {
+      "institution": "Sun Microsystems",
+      "area": "Information Technology",
+      "studyType": "Certification",
+      "startDate": "2007-12-31",
+      "endDate": "2007-12-31",
+      "gpa": "90.0/100.0",
+      "courses": ["Sun Certified Web Component Developer (SCWCD)"]
+    },
+    {
+      "institution": "Sun Microsystems",
+      "area": "Information Technology",
+      "studyType": "Certification",
+      "startDate": "2006-12-31",
+      "endDate": "2006-12-31",
+      "gpa": "90.0/100.0",
+      "courses": [ "Sun Certified Java Programmer (SCJP)" ]
+    },
+    {
+      "institution": "University of Pisa",
+      "area": "Information Technology",
+      "studyType": "Master degree",
+      "startDate": "1999-09-15",
+      "endDate": "2003-11-05",
+      "gpa": "110.0/110.0 cum laude"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "J5EE",
+        "Java language",
+        "Multithreading",
+        "Spring framework 3.x"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "Python 3",
+        "Flask",
+        "SQLAlchemy/Alembic",
+        "Celery"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "SQL",
+        "Performances tuning and plan analysis",
+        "Microsoft SQL Server",
+        "Oracle",
+        "PostGreSQL"
+      ]
+    },
+    {
+      "name": "Cryptocurrencies",
+      "level": "Average",
+      "keywords": [
+        "Bitcoin",
+        "Elliptic curve encryption"
+      ]
+    },
+    {
+      "name": "Android",
+      "level": "Beginner",
+      "keywords": [
+        "Basic UI development",
+        "Basic network interaction"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Cambridge English Advanced"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Playing piano",
+      "keywords": [
+        "Piano",
+        "Music"
+      ]
+    },
+    {
+      "name": "Astronomy",
+      "keywords": [
+        "Astronomy",
+        "Telescope"
+      ]
+    }
+  ]
+}
