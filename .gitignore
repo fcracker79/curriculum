@@ -1,2 +1,6 @@
 resume.html
 resume.pdf
+*.swp
+*.tmp
+*.log
+
