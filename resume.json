@@ -131,6 +131,17 @@
   ],
   "skills": [
     {
+      "name": "Software Architecture",
+      "level": "Master",
+      "keywords": [
+        "Design patterns (GoF)",
+        "Enterprise architectures",
+        "Domain Driven Design",
+        "Microservices architecture",
+        "MVC / MVP"
+      ]
+    },
+    {
       "name": "Java",
       "level": "Master",
       "keywords": [
@@ -165,13 +176,18 @@
       ]
     },
     {
-      "name": "Software Architecture",
+      "name": "Tools",
       "level": "Master",
       "keywords": [
-        "Design patterns (GoF)",
-        "Enterprise architectures",
-        "Domain Driven Design",
-        "Microservices architecture"
+        "SVN", "Git", "PyCharm", "Intellij", "Android Studio", "Jira"
+      ]
+    },
+    {
+      "name": "Protocol standards",
+      "level": "Intermediate",
+      "keywords": [
+        "XML", "XLS", "DTD", "REST", "SOA",
+        "JSON"
       ]
     },
     {
