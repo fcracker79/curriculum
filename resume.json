@@ -3,10 +3,11 @@
     "name": "Mirko Bonasorte",
     "label": "Software engineer",
     "image": "http://www.mirko.io/assets/img/foto.png",
+    "picture": "http://www.mirko.io/assets/img/foto.png",
     "email": "mirko@mirko.io",
     "phone": "+39 349 4042853",
     "website": "http://www.mirko.io",
-    "summary": "I am a passion software engineer. After graduating in Software Engineering at Università degli studi di Pisa, I have worked as a Java Software architect for twelve years at Tagetik S.r.l.. Currently I am working in a startup that operates in the domain of cryptocurrencies. Apart from my work experience, I have always devoted most of my spare time learning new technologies and keeping my skills up-to-date.",
+    "summary": "I am a passioned software engineer. \nAfter graduating in Software Engineering at Università degli studi di Pisa, I have worked as a Java Software architect for twelve years at Tagetik S.r.l..\n Currently I am working in a startup that operates in the domain of cryptocurrencies.\nApart from my work experience, I have always devoted most of my spare time learning new technologies and keeping my skills up-to-date.",
     "location": {
       "address": "Via Pollinelle 46",
       "postalCode": "55016",
@@ -17,7 +18,9 @@
       {
         "network": "Twitter",
         "username": "fcracker79",
-        "url": "https://twitter.com/fcracker79"
+        "url": "https://twitter.com/fcracker79",
+    "image": "http://www.mirko.io/assets/img/foto.png",
+    "picture": "http://www.mirko.io/assets/img/foto.png"
       },
       {
         "network": "LinkedIn",
@@ -52,7 +55,8 @@
       "highlights": [
         "Designed, architected and implemented the core Conio platform from scratch.",
         "Mentored junior developers.",
-        "Contributed to open sources libraries adopted by Conio"
+        "Contributed to open sources libraries adopted by Conio",
+        "Development of Python microliths"
       ]
     },
     {
@@ -64,7 +68,7 @@
       "summary": "Tagetik enables finance, legal, tax, and healthcare professionals to be more effective and efficient. They provide information, software, and services that deliver vital insights, intelligent tools, and the guidance of subject-matter experts. ",
       "highlights": [
         "Batch SQL data processing on huge data",
-        "Multithreading highly concurrent data processing",
+        "Multithreading highly concurrent data processing in Java language",
         "SQL fine tuning",
         "Team leader and mentor on Java technologies"
       ]
@@ -77,7 +81,8 @@
       "studyType": "Certification",
       "startDate": "2010-12-31",
       "endDate": "2013-12-31",
-      "gpa": "72.0/100.0"
+      "gpa": "72.0/100.0",
+      "courses": ["Certification in Advanced English (CAE)"]
     },
     {
       "institution": "VMWare",
@@ -132,7 +137,8 @@
         "J5EE",
         "Java language",
         "Multithreading",
-        "Spring framework 3.x"
+        "Spring framework 3.x",
+        "Hibernate / JPA"
       ]
     },
     {
@@ -141,7 +147,7 @@
       "keywords": [
         "Python 3",
         "Flask",
-        "SQLAlchemy/Alembic",
+        "SQLAlchemy / Alembic",
         "Celery"
       ]
     },
@@ -154,7 +160,8 @@
         "Microsoft SQL Server",
         "Oracle",
         "PostGreSQL",
-        "Redis"
+        "Redis",
+        "RabbitMQ"
       ]
     },
     {
@@ -169,7 +176,7 @@
     },
     {
       "name": "Cryptocurrencies",
-      "level": "Average",
+      "level": "Intermediate",
       "keywords": [
         "Bitcoin",
         "Elliptic curve encryption"
