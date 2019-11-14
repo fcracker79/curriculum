@@ -76,6 +76,15 @@
   ],
   "education": [
     {
+      "institution": "Amazon",
+      "area": "Cloud services",
+      "studyType": "Certification",
+      "startDate": "2019-11-06",
+      "endDate": "2019-11-06",
+      "gpa": "927.0/1000.0",
+      "courses": ["AWS Cloud Practitioner"]
+    },
+    {
       "institution": "University of Cambridge",
       "area": "English",
       "studyType": "Certification",
@@ -204,6 +213,16 @@
       "keywords": [
         "Basic UI development",
         "Basic network interaction"
+      ]
+    },
+    {
+      "name": "Amazon Web Services",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "Amazon",
+        "IaC",
+        "Infrastructure"
       ]
     }
   ],
